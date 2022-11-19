@@ -32,11 +32,17 @@ header .contenedor {
 
 header .logotipo {
     width: 220px;
-    /* font-family: 'Bebas Neue', cursive; 
+    
+}
+
+/*  En caso que sea para texto.
+    
+    font-family: 'Bebas Neue', cursive; 
     font-weight: normal;
     color:var(--verde);
-    font-size: 40px;*/
-}
+    font-size: 40px;
+    */
+
 
 header nav a {
     color:rgb(133, 125, 125);
