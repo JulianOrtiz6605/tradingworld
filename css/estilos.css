@@ -75,7 +75,7 @@ header nav a.activo {
 
 .background-principal .titulo {
     font-weight: 600;
-    font-size: 3.12em;
+    font-size: 3em;
     margin-bottom: 0.4em;
 }
 
@@ -83,6 +83,6 @@ header nav a.activo {
     font-weight: normal;
     font-size: 1em;
     line-height: 1.75em;
-    max-width: 75%;
+    max-width: 65%;
     margin-bottom: 1.25em;
 }
