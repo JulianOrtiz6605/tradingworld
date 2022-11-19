@@ -31,10 +31,11 @@ header .contenedor {
 }
 
 header .logotipo {
-    font-family: 'Bebas Neue', cursive;
+    width: 220px;
+    /* font-family: 'Bebas Neue', cursive; 
     font-weight: normal;
     color:var(--verde);
-    font-size: 40px;
+    font-size: 40px;*/
 }
 
 header nav a {
